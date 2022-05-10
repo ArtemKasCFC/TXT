@@ -1,1 +1,9 @@
-
+ID
+Summary
+Discription (Environment,Reproducibility,Walkaround)
+Severity
+Priority
+Steps to reproduce
+Actual result
+Expected result
+Attached
